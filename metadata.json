@@ -1,0 +1,6 @@
+{
+  "name": "AuraTV",
+  "description": "Aplicativo Android IPTV nativo com suporte a M3U/M3U8, Xtream Codes, favoritos, histórico e suporte a Android TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuraTV</string>
+    <string name="live_badge">AO VIVO</string>
+    <string name="add_playlist">Adicionar Lista</string>
+    <string name="all_channels">Todos os Canais</string>
+    <string name="favorites">Favoritos</string>
+    <string name="history">Histórico</string>
+    <string name="search_hint">Pesquisar canais...</string>
+    <string name="no_channels_title">Nenhum canal encontrado</string>
+    <string name="no_channels_subtitle">Adicione uma lista M3U ou conta Xtream Codes na barra lateral para começar.</string>
+    <string name="playlist_type_m3u">M3U / M3U8 (URL)</string>
+    <string name="playlist_type_xtream">Xtream Codes</string>
+    <string name="player_error_title">Erro ao reproduzir stream</string>
+    <string name="retry">Tentar novamente</string>
+</resources>
